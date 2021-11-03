@@ -2,7 +2,7 @@
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### hi, im aeg
-- <i> lua programmer </i>
+- <i> py/lua programmer </i>
 - <i> ui/ux designer </i>
 - <i> learning css </i>
 
