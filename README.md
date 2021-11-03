@@ -1,11 +1,10 @@
-<img src="{https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white}" />
-</br>
-<i>abt me</i>
-- roblox ui/ux designer
-- i script for fun
-</br>
-<i>contact</i>
-</br>
-<img src="{https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}" /> 
+![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeg-eus)](https://github.com/anuraghazra/github-readme-stats)
+### hi, im aeg
+- <i> lua programmer </i>
+- <i> ui/ux designer </i>
+- <i> learning css </i>
+
+![stats](https://github-readme-stats.vercel.app/api?username=aeg-eus&count_private=true&show_icons=true&theme=radical)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeg-eus&show_icons=true&theme=radical)
