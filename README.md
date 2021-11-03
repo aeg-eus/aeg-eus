@@ -1,1 +1,1 @@
- <img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={aeg-eus}&theme=blue-green}" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeg-eus)](https://github.com/anuraghazra/github-readme-stats)
