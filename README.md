@@ -3,9 +3,9 @@
 # *hi, im aeg*
 ```lua
 local aeg = {
-  interested = "frontend developing", "ui/ux designing",
-  languagesKnowing = "py", "lua"
-  languagesLearning = "css"
+  interested = "frontend developing", "roblox ui/ux designing",
+  languagesKnowing = "py", "lua", "js",
+  languagesLearning = "html", "css", "vue.js"
 }
 
 print(aeg)
